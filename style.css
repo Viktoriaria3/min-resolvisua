@@ -1,12 +1,12 @@
 .box {
   width: 300px;
   height: 200px;
-  background-image: url(src="images.jpeg");
+  background-image: url(https://drive.google.com/file/d/1xMGZuKijR0214zTM7z-jk5Wn8LBp0LGf/view?usp=sharing);
   background-repeat: no-repeat;
 }
 @media screen and (min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .box {
-    background-image: url(images2.jpeg);
+    background-image: url(https://drive.google.com/file/d/13clucAhlENnhNGnb8cJzdYLyxwDg1N-I/view?usp=sharing);
     background-repeat: no-repeat;
   }
 }
